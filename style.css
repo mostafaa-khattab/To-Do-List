@@ -4,6 +4,7 @@ body {
     font-family: cursive;
 }
 
+
 .home-item {
     transition: all .4s;
     border    : solid 1px gray;

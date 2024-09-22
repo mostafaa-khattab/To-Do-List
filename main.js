@@ -4,6 +4,7 @@ let searchInput = document.getElementById("searchInput")
 let alertInp = document.getElementById("alertInp")
 
 
+
 let items = []
 
 if (localStorage.getItem("allItems") != null) {
